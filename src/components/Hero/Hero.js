@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Welcome to my portfolio site. Here you can find my latest projects as well as an overview of my skills and the technologies I am familiar with. If you like what you see, feel free to get in touch!
       </SectionText>
-      <Button onClick={() => window.location = 'https://uk.linkedin.com/in/vay-kaushik'}>Get in Touch</Button>
+      <Button onClick={() => window.location = 'https://uk.linkedin.com/in/vay-kaushik'}>Contact on LinkedIn</Button>
     </LeftSection>
   </Section>
 );
