@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+A link link can be viewed here: https://vay-kaushik.netlify.app/
+
+Basic first draft of portfolio website using Next Js & Sass.
